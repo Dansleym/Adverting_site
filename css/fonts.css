@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'Flow';
+	src: url('../fonts/Flow/Flow.eot');
+	src: local('../fonts/Flow/Flow Regular'), local('Flow'),
+		url('../fonts/Flow/Flow.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Flow/Flow.woff') format('woff'),
+		url('../fonts/Flow/Flow.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro/MyriadPro-Regular.eot');
+    src: local('../fonts/MyriadPro/Myriad Pro Regular'), local('MyriadPro-Regular'),
+        url('../fonts/MyriadPro/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MyriadPro/MyriadPro-Regular.woff') format('woff'),
+        url('../fonts/MyriadPro/MyriadPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Poppins Light';
+    src: url('../fonts/Poppins/Poppins-Light.eot');
+    src: local('../fonts/Poppins/Poppins Light'), local('Poppins-Light'),
+        url('../fonts/Poppins/Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins/Poppins-Light.woff') format('woff'),
+        url('../fonts/Poppins/Poppins-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins/Poppins-Regular.eot');
+    src: local('../fonts/Poppins/Poppins Regular'), local('Poppins-Regular'),
+        url('../fonts/Poppins/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins/Poppins-Regular.woff') format('woff'),
+        url('Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
